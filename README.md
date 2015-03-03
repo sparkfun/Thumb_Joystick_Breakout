@@ -1,6 +1,6 @@
 SparkFun Breakout Board for Thumb Joystick
 ==========================================
-![SparkFun Breakout Board for Thumb Joystick](URL for picture of part)
+![SparkFun Breakout Board for Thumb Joystick](https://cdn.sparkfun.com//assets/parts/2/5/0/3/09110_10298-01.jpg)
 
 [*SparkFun Breakout Board for Thumb Joystick (BOB-09110)*](https://www.sparkfun.com/products/9110)
 

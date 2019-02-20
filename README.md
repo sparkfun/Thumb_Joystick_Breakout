@@ -8,9 +8,13 @@ This is the breakout board for the thumb joystick. Pins are broken out to a 0.1"
 
 Repository Contents
 -------------------
-
+* **/Firmware** - Arduino Example Code
 * **/Hardware** - All Eagle design files (.brd, .sch)
 
+Documentation
+--------------
+
+* **[Hookup Guide](https://www.sparkfun.com/tutorials/272)** - Basic hookup guide.
 
 License Information
 -------------------
